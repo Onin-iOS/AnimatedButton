@@ -23,7 +23,7 @@ struct SpecialButtonView: View {
             
             DottedCircleView()
             
-            VStack(spacing: -2 ) {
+            VStack(spacing: -2) {
                 BoltImageView()
                 
                 PercentView()
